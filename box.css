@@ -1,0 +1,36 @@
+body {
+  /* background-color: #000; */
+}
+#special {
+  background-color: blueviolet;
+}
+
+.box {
+  padding: 30px;
+  border: 1px solid black;
+  display: inline-block;
+  /* width: 12%; */
+}
+
+.box3 {
+  background-color: #ce575796;
+}
+
+div.box1 {
+  border: 5px solid tomato;
+}
+
+.box {
+  border: 5px solid black;
+}
+
+.boxes {
+  width: 100%;
+  border: 1px dashed green;
+}
+/*  taikomes i boxes2 viduje esanti box */
+/* tarpelis tarp klasiu reiskia ieskome 
+ kairiojo selektoriaus viduje esancio desineje elemento */
+.boxes2 .box {
+  border: 5px solid cornflowerblue;
+}

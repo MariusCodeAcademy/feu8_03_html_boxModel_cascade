@@ -1,0 +1,20 @@
+body {
+  background-color: #efefef;
+}
+/* * universalus selectorius visiems elementams */
+* {
+  box-sizing: border-box;
+}
+
+.deze {
+  width: 49%;
+  background-color: pink;
+  border: 2px solid #000;
+  display: inline-block;
+  padding: 20px;
+}
+.deze1 {
+  width: 200px;
+  padding: 50px;
+  border: 1px solid #000;
+}
